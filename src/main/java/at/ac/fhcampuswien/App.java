@@ -9,7 +9,6 @@ public class App {
         // input your solution here
         System.out.println("Hello World!");
         // TEST
-        // TEST 2
     }
 
     //todo Task 2
